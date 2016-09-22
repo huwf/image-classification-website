@@ -1,0 +1,46 @@
+body{
+	font-family: sans-serif;
+}
+
+select{
+	text-transform: capitalize;
+}
+
+.container{
+	float:left;
+	padding:15px;
+	
+}
+
+.aurora{
+	background-color: #34dbdb;
+}
+
+.stars{
+	background-color: #add8e6;
+}
+
+.black{
+	background-color: #2e8b57;
+}
+
+.city{
+	background-color: #1ba39c;
+}
+
+.none{
+	background-color: #81cfe0;
+}
+
+.astronaut{
+	background-color: #add8e6;
+
+}
+
+.unclassified{
+	background-color: #FF9934;
+}
+
+.updated{
+	background-color: #ff0000 !important;
+}
